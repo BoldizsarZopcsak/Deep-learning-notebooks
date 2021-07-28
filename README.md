@@ -1,4 +1,6 @@
 # Deep learning notebooks
 A collection of jupyter notebooks. All about deep learning.
 
-1. [EfficientNet](./Notebooks/EfficientNet.ipynb)
+- [EfficientNet](./Notebooks/EfficientNet.ipynb)
+- [Autoencoder](./Notebooks/Autoencoder Tutorial Notebook.ipynb)
+- [GAN](./Notebooks/Generative_Adversarial_Networks.ipynb)
